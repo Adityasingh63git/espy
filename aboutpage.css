@@ -1,0 +1,41 @@
+*{
+	font-family: 'Merriweather', serif;
+}
+h1{
+	text-align: right;
+	font-family:Merriweather-BoldItalic;
+	padding: 14px;
+	font-size: 150px;
+	width: 30px left;
+	position: absolute;
+	right: 40px;
+	top: 80px;
+}
+.calling{
+	position: absolute;
+	right:  50px;
+}
+}
+nav{
+	text-align: left;
+	font-family:Merriweather-BoldItalic;
+	background-color: red;
+
+}
+p{
+	font-family: Merriweather-BoldItalic;
+	margin-left : 100px; 
+	margin-right: 100px;
+}
+.footer{
+	position: absolute;
+	padding: 2px;
+	bottom: 20px;
+	left: 20px;
+
+	
+	
+
+
+
+}
