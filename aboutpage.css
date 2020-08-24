@@ -1,18 +1,14 @@
 *{
 	font-family: 'Merriweather', serif;
 }
-h1{
-	text-align: right;
-	font-family:Merriweather-BoldItalic;
-	padding: 14px;
-	font-size: 150px;
-	width: 30px left;
-	position: absolute;
-	right: 40px;
+.about-us{
+	font-size: 50px;
+	position: relative;
 	top: 80px;
+	left: 45%;
 }
 .calling{
-	position: absolute;
+	position: relative;
 	right:  50px;
 }
 }
@@ -27,15 +23,8 @@ p{
 	margin-left : 100px; 
 	margin-right: 100px;
 }
+
 .footer{
-	position: absolute;
-	padding: 2px;
-	bottom: 20px;
-	left: 20px;
-
-	
-	
-
-
+	position: relative;
 
 }
